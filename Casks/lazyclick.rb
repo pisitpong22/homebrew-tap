@@ -1,6 +1,6 @@
 cask "lazyclick" do
-  version "1.0.0"
-  sha256 "f65fe27cdb0bb66d165a8402164d7f5ed0dad6f8a21abfc89e22ecd32abad1bc"
+  version "1.1.0"
+  sha256 "85a0b482f15a7ebd2ad5fc3addefa52bc66ccc1a3580ed2a66d7a322b1a7533d"
 
   url "https://github.com/pisitpong22/LazyClick/releases/download/v#{version}/LazyClick.zip"
   name "LazyClick"
